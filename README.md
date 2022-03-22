@@ -24,4 +24,14 @@ The analysis also contains the weekly fluctuation of average fare for each city 
 
 ![Weekly Fare By City Type](https://github.com/Zarif601/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
+The fluctuation of the average fares seem consistent for all three types of cities. We can see dips in March for all cities and overall there doesn't seem to be anything that stands out throughout the year.
+
 ## Summary
+
+Given the results shared above, here are three business recommedations to PyBer:
+
+1. To balance out the distribution of fares, more rides need to me made available in Rural and Suburban cities. 
+2. Rural areas also require more drivers, followed by Suburban cities.
+3. Urban cities can be asked to share some of their drivers and rides with their neighboring Rural and Suburban cities on a need basis to even out any fare disparities.
+
+Following the above recommendations should hopefully even out the dare distrubution between Rural, Suburban and Urban cities.
