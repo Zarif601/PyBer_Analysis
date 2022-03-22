@@ -14,4 +14,14 @@ A summary dataframe has been created that contains all the relevent information 
 
 ![PyBer Summary](https://github.com/Zarif601/PyBer_Analysis/blob/main/Resources/PyBer_summary.png)
 
+From the above dataframe we can see that Urban cities reported many more rides than other types of cities. As such the total number of drivers in Urban cities is also much higher. As such, we can also see that the total fare is much higher in Urban cities. Suburban cities had the second most rides, number of drivers and total fare and Rural cities had the least. 
+
+However, looking at the 'Average Fare per Ride' column, we can see that average fare for a ride is the cheapest in Urban cities, and Rural cities had the highest average fare per ride. The same pattern is also seen in the 'Average Fare per Driver' column, where Rural driver fares were much higher compared to Suburban and Urban cities. Urban city's fare per driver is the by far the lowest.
+
+There seems to be a clear correlation between the total number of rides in each city and the average fares generated per ride in those cities. It looks like the higher the number of rides, the lower the average fare generated.
+
+The analysis also contains the weekly fluctuation of average fare for each city type. The graph which shows this information is as below:
+
+![Weekly Fare By City Type](https://github.com/Zarif601/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
 ## Summary
