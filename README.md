@@ -12,4 +12,6 @@ The ride-sharing data has been analyzed to present to the PyBer company so that 
 
 A summary dataframe has been created that contains all the relevent information about each city type as shown below:
 
+![PyBer Summary](https://github.com/Zarif601/PyBer_Analysis/blob/main/Resources/PyBer_summary.png)
+
 ## Summary
